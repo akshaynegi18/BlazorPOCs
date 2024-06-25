@@ -1,0 +1,54 @@
+﻿@page "/download"
+@using ClosedXML.Excel
+@using ExcelDownloadPOC.Shared
+@using System.IO
+
+@inject IJSRuntime JSRuntime
+<h3>Download Excel</h3>
+
+<button @onclick="DownloadExcel">Download Excel</button>
+
+@code {
+    List<Customer> customers;
+
+    protected override void OnInitialized()
+    {
+        // Populate 'customers' data from somewhere (e.g., a service call)
+        customers = FetchCustomersData();
+    }
+
+    private async Task DownloadExcel()
+    {
+        var excelData = GenerateExcelFile(customers);
+        await JSRuntime.InvokeVoidAsync("BlazorDownloadFile", "customers.xlsx", Convert.ToBase64String(excelData));
+    }
+
+    private List<Customer> FetchCustomersData()
+    {
+        // Fetch and return customer data (e.g., from an API call)
+        // Replace this with your actual data retrieval logic
+        // This is just a mock representation
+        return new List<Customer>
+        {
+            new Customer { Name = "John Doe", Email = "john@example.com" },
+            new Customer { Name = "Jane Smith", Email = "jane@example.com" }
+        };
+    }
+
+    public byte[] GenerateExcelFile(List<Customer> customers)
+    {
+        using (var workbook = new XLWorkbook())
+        {
+            var worksheet = workbook.Worksheets.Add("Customers");
+            
+            // Assuming Customer class has properties like Name, Email, etc.
+            worksheet.Cell(1, 1).InsertData(customers);
+
+            using (var ms = new MemoryStream())
+            {
+                workbook.SaveAs(ms);
+                return ms.ToArray();
+            }
+        }
+    }
+}

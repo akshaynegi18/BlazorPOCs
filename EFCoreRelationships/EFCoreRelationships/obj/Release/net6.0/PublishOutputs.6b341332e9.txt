@@ -1,0 +1,11 @@
+C:\Users\aksha\Documents\Projects\BlazorPOCs\EFCoreRelationships\EFCoreRelationships\obj\Release\net6.0\PubTmp\Out\EFCoreRelationships.exe
+C:\Users\aksha\Documents\Projects\BlazorPOCs\EFCoreRelationships\EFCoreRelationships\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\aksha\Documents\Projects\BlazorPOCs\EFCoreRelationships\EFCoreRelationships\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\aksha\Documents\Projects\BlazorPOCs\EFCoreRelationships\EFCoreRelationships\obj\Release\net6.0\PubTmp\Out\EFCoreRelationships.dll
+C:\Users\aksha\Documents\Projects\BlazorPOCs\EFCoreRelationships\EFCoreRelationships\obj\Release\net6.0\PubTmp\Out\EFCoreRelationships.deps.json
+C:\Users\aksha\Documents\Projects\BlazorPOCs\EFCoreRelationships\EFCoreRelationships\obj\Release\net6.0\PubTmp\Out\EFCoreRelationships.runtimeconfig.json
+C:\Users\aksha\Documents\Projects\BlazorPOCs\EFCoreRelationships\EFCoreRelationships\obj\Release\net6.0\PubTmp\Out\EFCoreRelationships.pdb
+C:\Users\aksha\Documents\Projects\BlazorPOCs\EFCoreRelationships\EFCoreRelationships\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\aksha\Documents\Projects\BlazorPOCs\EFCoreRelationships\EFCoreRelationships\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aksha\Documents\Projects\BlazorPOCs\EFCoreRelationships\EFCoreRelationships\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aksha\Documents\Projects\BlazorPOCs\EFCoreRelationships\EFCoreRelationships\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

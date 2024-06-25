@@ -1,0 +1,12 @@
+C:\Users\aksha\Documents\Projects\BlazorPOCs\ExcelDownloadPOC\ExcelDownloadPOC\Shared\bin\Debug\net5.0\ExcelDownloadPOC.Shared.deps.json
+C:\Users\aksha\Documents\Projects\BlazorPOCs\ExcelDownloadPOC\ExcelDownloadPOC\Shared\bin\Debug\net5.0\ExcelDownloadPOC.Shared.dll
+C:\Users\aksha\Documents\Projects\BlazorPOCs\ExcelDownloadPOC\ExcelDownloadPOC\Shared\bin\Debug\net5.0\ExcelDownloadPOC.Shared.pdb
+C:\Users\aksha\Documents\Projects\BlazorPOCs\ExcelDownloadPOC\ExcelDownloadPOC\Shared\obj\Debug\net5.0\ExcelDownloadPOC.Shared.csproj.AssemblyReference.cache
+C:\Users\aksha\Documents\Projects\BlazorPOCs\ExcelDownloadPOC\ExcelDownloadPOC\Shared\obj\Debug\net5.0\ExcelDownloadPOC.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aksha\Documents\Projects\BlazorPOCs\ExcelDownloadPOC\ExcelDownloadPOC\Shared\obj\Debug\net5.0\ExcelDownloadPOC.Shared.AssemblyInfoInputs.cache
+C:\Users\aksha\Documents\Projects\BlazorPOCs\ExcelDownloadPOC\ExcelDownloadPOC\Shared\obj\Debug\net5.0\ExcelDownloadPOC.Shared.AssemblyInfo.cs
+C:\Users\aksha\Documents\Projects\BlazorPOCs\ExcelDownloadPOC\ExcelDownloadPOC\Shared\obj\Debug\net5.0\ExcelDownloadPOC.Shared.csproj.CoreCompileInputs.cache
+C:\Users\aksha\Documents\Projects\BlazorPOCs\ExcelDownloadPOC\ExcelDownloadPOC\Shared\obj\Debug\net5.0\ExcelDownloadPOC.Shared.dll
+C:\Users\aksha\Documents\Projects\BlazorPOCs\ExcelDownloadPOC\ExcelDownloadPOC\Shared\obj\Debug\net5.0\refint\ExcelDownloadPOC.Shared.dll
+C:\Users\aksha\Documents\Projects\BlazorPOCs\ExcelDownloadPOC\ExcelDownloadPOC\Shared\obj\Debug\net5.0\ExcelDownloadPOC.Shared.pdb
+C:\Users\aksha\Documents\Projects\BlazorPOCs\ExcelDownloadPOC\ExcelDownloadPOC\Shared\obj\Debug\net5.0\ref\ExcelDownloadPOC.Shared.dll
